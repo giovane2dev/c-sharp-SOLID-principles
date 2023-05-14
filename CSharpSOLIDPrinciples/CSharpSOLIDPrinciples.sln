@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnemicDomainModel", "AnemicDomainModel\AnemicDomainModel.csproj", "{84345298-86F5-4603-A786-226026FEC8A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnemicDomainModel", "AnemicDomainModel\AnemicDomainModel.csproj", "{84345298-86F5-4603-A786-226026FEC8A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{B71EAB48-D396-4081-A9D1-59B72CD4859E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{84345298-86F5-4603-A786-226026FEC8A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84345298-86F5-4603-A786-226026FEC8A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84345298-86F5-4603-A786-226026FEC8A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B71EAB48-D396-4081-A9D1-59B72CD4859E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B71EAB48-D396-4081-A9D1-59B72CD4859E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B71EAB48-D396-4081-A9D1-59B72CD4859E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B71EAB48-D396-4081-A9D1-59B72CD4859E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

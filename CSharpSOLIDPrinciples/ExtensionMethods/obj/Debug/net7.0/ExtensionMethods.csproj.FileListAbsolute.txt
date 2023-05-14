@@ -1,0 +1,15 @@
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\ExtensionMethods\bin\Debug\net7.0\ExtensionMethods.exe
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\ExtensionMethods\bin\Debug\net7.0\ExtensionMethods.deps.json
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\ExtensionMethods\bin\Debug\net7.0\ExtensionMethods.runtimeconfig.json
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\ExtensionMethods\bin\Debug\net7.0\ExtensionMethods.dll
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\ExtensionMethods\bin\Debug\net7.0\ExtensionMethods.pdb
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\ExtensionMethods\obj\Debug\net7.0\ExtensionMethods.csproj.AssemblyReference.cache
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\ExtensionMethods\obj\Debug\net7.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\ExtensionMethods\obj\Debug\net7.0\ExtensionMethods.AssemblyInfoInputs.cache
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\ExtensionMethods\obj\Debug\net7.0\ExtensionMethods.AssemblyInfo.cs
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\ExtensionMethods\obj\Debug\net7.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\ExtensionMethods\obj\Debug\net7.0\ExtensionMethods.dll
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\ExtensionMethods\obj\Debug\net7.0\refint\ExtensionMethods.dll
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\ExtensionMethods\obj\Debug\net7.0\ExtensionMethods.pdb
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\ExtensionMethods\obj\Debug\net7.0\ExtensionMethods.genruntimeconfig.cache
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\ExtensionMethods\obj\Debug\net7.0\ref\ExtensionMethods.dll

@@ -1,0 +1,15 @@
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\AnemicDomainModel\bin\Debug\net7.0\AnemicDomainModel.exe
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\AnemicDomainModel\bin\Debug\net7.0\AnemicDomainModel.deps.json
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\AnemicDomainModel\bin\Debug\net7.0\AnemicDomainModel.runtimeconfig.json
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\AnemicDomainModel\bin\Debug\net7.0\AnemicDomainModel.dll
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\AnemicDomainModel\bin\Debug\net7.0\AnemicDomainModel.pdb
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\AnemicDomainModel\obj\Debug\net7.0\AnemicDomainModel.csproj.AssemblyReference.cache
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\AnemicDomainModel\obj\Debug\net7.0\AnemicDomainModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\AnemicDomainModel\obj\Debug\net7.0\AnemicDomainModel.AssemblyInfoInputs.cache
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\AnemicDomainModel\obj\Debug\net7.0\AnemicDomainModel.AssemblyInfo.cs
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\AnemicDomainModel\obj\Debug\net7.0\AnemicDomainModel.csproj.CoreCompileInputs.cache
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\AnemicDomainModel\obj\Debug\net7.0\AnemicDomainModel.dll
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\AnemicDomainModel\obj\Debug\net7.0\refint\AnemicDomainModel.dll
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\AnemicDomainModel\obj\Debug\net7.0\AnemicDomainModel.pdb
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\AnemicDomainModel\obj\Debug\net7.0\AnemicDomainModel.genruntimeconfig.cache
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\AnemicDomainModel\obj\Debug\net7.0\ref\AnemicDomainModel.dll
