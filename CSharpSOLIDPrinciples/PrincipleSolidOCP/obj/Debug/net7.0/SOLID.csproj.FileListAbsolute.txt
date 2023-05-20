@@ -1,0 +1,15 @@
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\PrincipleSolidOCP\bin\Debug\net7.0\SOLID.exe
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\PrincipleSolidOCP\bin\Debug\net7.0\SOLID.deps.json
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\PrincipleSolidOCP\bin\Debug\net7.0\SOLID.runtimeconfig.json
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\PrincipleSolidOCP\bin\Debug\net7.0\SOLID.dll
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\PrincipleSolidOCP\bin\Debug\net7.0\SOLID.pdb
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\PrincipleSolidOCP\obj\Debug\net7.0\SOLID.csproj.AssemblyReference.cache
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\PrincipleSolidOCP\obj\Debug\net7.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\PrincipleSolidOCP\obj\Debug\net7.0\SOLID.AssemblyInfoInputs.cache
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\PrincipleSolidOCP\obj\Debug\net7.0\SOLID.AssemblyInfo.cs
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\PrincipleSolidOCP\obj\Debug\net7.0\SOLID.csproj.CoreCompileInputs.cache
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\PrincipleSolidOCP\obj\Debug\net7.0\SOLID.dll
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\PrincipleSolidOCP\obj\Debug\net7.0\refint\SOLID.dll
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\PrincipleSolidOCP\obj\Debug\net7.0\SOLID.pdb
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\PrincipleSolidOCP\obj\Debug\net7.0\SOLID.genruntimeconfig.cache
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\PrincipleSolidOCP\obj\Debug\net7.0\ref\SOLID.dll
