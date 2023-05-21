@@ -14,6 +14,11 @@ namespace Inheritance
             
         }
 
+        public SavingsAccount(int number, double balance) : base(number, balance)
+        {
+            
+        }
+
         public override void CreateBalance()
         {
             Console.WriteLine("This balance is 20!");

@@ -14,6 +14,23 @@ namespace Inheritance
             Console.WriteLine(text);
         }
 
+        public Account(int number, double balance)
+        {
+            if (number <= 0)
+            {
+                throw new ArgumentException("The number is not valid!");
+            }
+                
+
+            if (balance <= 0)
+            {
+                throw new ArgumentException("The balance is not valid!");
+            }
+
+            Number = number;
+            Balance = balance;
+        }
+
         private int number;
         private double balance;
 
@@ -21,11 +38,11 @@ namespace Inheritance
         // protect property accessor: private set
         public int Number { 
             get => this.number;
-            set => this.number = value;
+            private set => this.number = value;
         }
         public double Balance { 
             get => this.balance; 
-            set => this.balance = value; }
+            private set => this.balance = value; }
 
         // this balance will replaced, so the why of the "virtual"
         public virtual void CreateBalance()
