@@ -5,9 +5,11 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnemicDomainModel", "AnemicDomainModel\AnemicDomainModel.csproj", "{84345298-86F5-4603-A786-226026FEC8A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{B71EAB48-D396-4081-A9D1-59B72CD4859E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{B71EAB48-D396-4081-A9D1-59B72CD4859E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID", "PrincipleSolidOCP\SOLID.csproj", "{1CDBECC6-2435-4476-A5E8-A92188533C3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID", "PrincipleSolidOCP\SOLID.csproj", "{1CDBECC6-2435-4476-A5E8-A92188533C3C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{5FE9118B-E390-432B-982C-89CCCCE7768D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{1CDBECC6-2435-4476-A5E8-A92188533C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CDBECC6-2435-4476-A5E8-A92188533C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CDBECC6-2435-4476-A5E8-A92188533C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FE9118B-E390-432B-982C-89CCCCE7768D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE9118B-E390-432B-982C-89CCCCE7768D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE9118B-E390-432B-982C-89CCCCE7768D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE9118B-E390-432B-982C-89CCCCE7768D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
