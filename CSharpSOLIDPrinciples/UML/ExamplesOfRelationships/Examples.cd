@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UML.ExamplesOfRelationships.Account">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEgAAAAEAAAAABAAAAAAAAQAAAA=</HashCode>
+      <FileName>ExamplesOfRelationships\Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UML.ExamplesOfRelationships.CheckingAccount">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExamplesOfRelationships\CheckingAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UML.ExamplesOfRelationships.SavingsAccount">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExamplesOfRelationships\SavingsAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
