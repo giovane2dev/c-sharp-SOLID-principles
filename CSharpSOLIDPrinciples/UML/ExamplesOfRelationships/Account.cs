@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace UML.ExamplesOfRelationships
 {
-    // generic class or parent class
-    public class Account
+    // generalized class or parent class
+    // part of the bank class (for relationship of composition type)
+    public class Account : IDisposable
     {
+        private Bank bank;
         public int Number { get; set; }
         public string Holder { get; set; }
         public double Balance { get; set; }
@@ -21,6 +23,21 @@ namespace UML.ExamplesOfRelationships
         public double Withdraw(double value)
         {
             return Balance + value;
+        }
+
+        public Account()
+        {
+
+        }
+
+        internal Account(Bank bank)
+        {
+            this.bank = bank;
+        }
+
+        public void Dispose()
+        {
+            // throw new NotImplementedException();
         }
     }
 }
