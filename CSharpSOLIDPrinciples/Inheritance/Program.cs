@@ -27,17 +27,21 @@ public class Program
          */
 
 
-        // DOWNCASTING EXAMPLE
+        /*
+         * DOWNCASTING EXAMPLE
 
-        SavingsAccount savingsAccount = new SavingsAccount();
+         SavingsAccount savingsAccount = new SavingsAccount();
 
-        Account a = savingsAccount; // implied
+         Account a = savingsAccount; // implied
 
-        SavingsAccount s = (SavingsAccount)a; // explicit
+         SavingsAccount s = (SavingsAccount)a; // explicit
 
-        Console.WriteLine(s == a);
+         Console.WriteLine(s == a);
 
-        s.Calc();
-        s.GetCalc();
+         s.Calc();
+         s.GetCalc();
+         */
+
+        Console.WriteLine("Last commit: Changes the relationship from inheritance to finalization");
     }
 }

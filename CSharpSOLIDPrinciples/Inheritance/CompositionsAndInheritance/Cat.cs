@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace Inheritance.CompositionsAndInheritance
 {
-    public class Cat : Animal
+    public class Cat
     {
+        Animal cat = new Animal();
+
+        public Cat()
+        {
+            cat.ToWalk();
+        }
     }
 }

@@ -8,5 +8,11 @@ namespace Inheritance.CompositionsAndInheritance
 {
     public class Fish : Animal
     {
+        Animal fish = new Animal();
+
+        public Fish()
+        {
+            fish.ToWalk();
+        }
     }
 }
