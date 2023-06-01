@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UML", "UML\UML.csproj", "{1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID", "SOLID\SOLID.csproj", "{BEACE91C-3D7A-4C41-AA76-74A3B075BBA1}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesAndAbstractClass", "InterfacesAndAbstractClass\InterfacesAndAbstractClass.csproj", "{7FD41AD1-7C23-45D2-9A6D-CFF745B2ACE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{BEACE91C-3D7A-4C41-AA76-74A3B075BBA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEACE91C-3D7A-4C41-AA76-74A3B075BBA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEACE91C-3D7A-4C41-AA76-74A3B075BBA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FD41AD1-7C23-45D2-9A6D-CFF745B2ACE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD41AD1-7C23-45D2-9A6D-CFF745B2ACE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD41AD1-7C23-45D2-9A6D-CFF745B2ACE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD41AD1-7C23-45D2-9A6D-CFF745B2ACE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

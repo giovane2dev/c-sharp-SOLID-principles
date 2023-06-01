@@ -1,0 +1,15 @@
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\InterfacesAndAbstractClass\bin\Debug\net7.0\InterfacesAndAbstractClass.exe
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\InterfacesAndAbstractClass\bin\Debug\net7.0\InterfacesAndAbstractClass.deps.json
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\InterfacesAndAbstractClass\bin\Debug\net7.0\InterfacesAndAbstractClass.runtimeconfig.json
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\InterfacesAndAbstractClass\bin\Debug\net7.0\InterfacesAndAbstractClass.dll
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\InterfacesAndAbstractClass\bin\Debug\net7.0\InterfacesAndAbstractClass.pdb
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\InterfacesAndAbstractClass\obj\Debug\net7.0\InterfacesAndAbstractClass.csproj.AssemblyReference.cache
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\InterfacesAndAbstractClass\obj\Debug\net7.0\InterfacesAndAbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\InterfacesAndAbstractClass\obj\Debug\net7.0\InterfacesAndAbstractClass.AssemblyInfoInputs.cache
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\InterfacesAndAbstractClass\obj\Debug\net7.0\InterfacesAndAbstractClass.AssemblyInfo.cs
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\InterfacesAndAbstractClass\obj\Debug\net7.0\InterfacesAndAbstractClass.csproj.CoreCompileInputs.cache
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\InterfacesAndAbstractClass\obj\Debug\net7.0\InterfacesAndAbstractClass.dll
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\InterfacesAndAbstractClass\obj\Debug\net7.0\refint\InterfacesAndAbstractClass.dll
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\InterfacesAndAbstractClass\obj\Debug\net7.0\InterfacesAndAbstractClass.pdb
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\InterfacesAndAbstractClass\obj\Debug\net7.0\InterfacesAndAbstractClass.genruntimeconfig.cache
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\InterfacesAndAbstractClass\obj\Debug\net7.0\ref\InterfacesAndAbstractClass.dll
