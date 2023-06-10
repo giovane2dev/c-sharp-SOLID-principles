@@ -22,5 +22,10 @@ namespace Inheritance.CompositionsAndInheritance
         {
 
         }
+
+        public void ToSwim()
+        {
+
+        }
     }
 }
