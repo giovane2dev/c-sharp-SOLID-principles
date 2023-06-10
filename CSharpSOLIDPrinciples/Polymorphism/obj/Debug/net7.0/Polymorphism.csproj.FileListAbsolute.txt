@@ -1,0 +1,15 @@
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\Polymorphism\bin\Debug\net7.0\Polymorphism.exe
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\Polymorphism\bin\Debug\net7.0\Polymorphism.deps.json
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\Polymorphism\bin\Debug\net7.0\Polymorphism.runtimeconfig.json
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\Polymorphism\bin\Debug\net7.0\Polymorphism.dll
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\Polymorphism\bin\Debug\net7.0\Polymorphism.pdb
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\Polymorphism\obj\Debug\net7.0\Polymorphism.csproj.AssemblyReference.cache
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\Polymorphism\obj\Debug\net7.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\Polymorphism\obj\Debug\net7.0\Polymorphism.AssemblyInfoInputs.cache
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\Polymorphism\obj\Debug\net7.0\Polymorphism.AssemblyInfo.cs
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\Polymorphism\obj\Debug\net7.0\Polymorphism.csproj.CoreCompileInputs.cache
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\Polymorphism\obj\Debug\net7.0\Polymorphism.dll
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\Polymorphism\obj\Debug\net7.0\refint\Polymorphism.dll
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\Polymorphism\obj\Debug\net7.0\Polymorphism.pdb
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\Polymorphism\obj\Debug\net7.0\Polymorphism.genruntimeconfig.cache
+D:\Development\learning\c-sharp-solid-principles\CSharpSOLIDPrinciples\Polymorphism\obj\Debug\net7.0\ref\Polymorphism.dll
