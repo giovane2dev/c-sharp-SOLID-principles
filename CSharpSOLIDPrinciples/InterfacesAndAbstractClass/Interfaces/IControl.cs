@@ -9,5 +9,9 @@ namespace InterfacesAndAbstractClass.Interfaces
     internal interface IControl
     {
         void Draw();
+        void RedDraw()
+        {
+            Console.WriteLine("Default Member Interface");
+        }
     }
 }
