@@ -12,7 +12,7 @@ namespace Inheritance.CompositionsAndInheritance
 
         public Fish()
         {
-            fish.ToWalk();
+            fish.ToSwim();
         }
     }
 }
