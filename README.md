@@ -8,4 +8,4 @@ Important concepts about Code Smell, Clean Code, DRY, S.O.L.I.D (SRP, OCP, LSP, 
 ## Open-Closed Principle
 ## Liskov Substitution Principle
 ## Interface Segregation Principle
-## Dependecy Inversion Principle
+## Dependency Inversion Principle
