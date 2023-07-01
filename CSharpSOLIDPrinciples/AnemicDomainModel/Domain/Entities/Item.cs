@@ -45,7 +45,7 @@ namespace AnemicDomainModel.Domain.Entities
             {
                 this.itemName = (value.Length > 150) ?
                     throw new ArgumentOutOfRangeException(nameof(ItemName),
-                    "Nome do item não deve ser superior a 150 caracteres!"): value;
+                    "Item name must not exceed 150 characters!") : value;
             }
         }
 
@@ -55,7 +55,7 @@ namespace AnemicDomainModel.Domain.Entities
             private set
             {
                 this.itemPrice = (value <= 0) ? throw new ArgumentOutOfRangeException(nameof(ItemPrice),
-                    "Preço do item deve ser informado com valor maior que zero!") : value;
+                    "Item price must not less than zero!") : value;
             }
         }
     }

@@ -8,7 +8,7 @@ namespace Inheritance
 {
     internal class SavingsAccount : Account
     {
-        // use "base" to transfer parameter to base class
+        // use "base" for transfer parameter to base class
         public SavingsAccount(string text) : base(text)
         {
             
